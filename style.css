@@ -1,0 +1,75 @@
+:root {
+    background-color: #121211;
+    color: white;
+}
+
+.profile-pic {
+    border-radius: 50%;
+    left: 100px;
+    position: relative;
+    background-color: aqua;
+    box-shadow: 0 0 50px aqua;
+    border: white 5px solid;
+    width: 30%;
+    resize: none;
+}
+
+.hero-section .opening-text {
+    display: flex;
+    flex-direction: row;
+    font-size: 1.5em;
+    font-weight: 500;
+    margin-top: 20px;
+
+    left: 5px;
+    right: 10px;
+    position: relative;
+    resize: none;
+}
+
+#navbar {
+    background-color: #121211;
+    background-size: cover;
+    background-repeat: repeat;
+    height: 75px;
+    width: 100%;
+    position: fixed;
+    top: 0;
+    left: 0;
+    z-index: 100;
+    border-bottom: 1px solid #ddd;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 calc(min(30vw, calc(100vw - 1500px)));
+}
+
+#navbar #navbar-title {
+    margin: 0 20px;
+    font-weight: 700;
+}
+
+#navbar .navbar-links {
+    list-style-type: none;
+    display: flex;
+}
+
+ul li {
+    margin-left: 1em;
+}
+
+ul {
+    list-style-type: square;
+    margin-top: 0.25em;
+}
+
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+a {
+    color: white;
+    text-decoration: none;
+}
