@@ -59,7 +59,7 @@ a {
 }
 
 .hero-section {
-    display: inline-flex;
+    display: flex;
     flex-direction: row-reverse;
     gap: 20px;
     justify-content: center;
@@ -89,13 +89,46 @@ a {
     background: aqua;
     box-shadow: 0 0 100px aqua;
     height: 40%;
-    margin-top: 50;
+    position: relative;
+    top: 50px;
+    left: 150px;
+    margin-top: 50px;
+}
+
+.hero-links .github-link a > i{
+    color: aqua;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    align-content: center;
+    background: transparent;
+    font-size: 4rem;
+    position: relative;
     margin-left: 150px;
     
 }
 
+.hero-links .linkedin-link a > i{
+    color: aqua;
+    width: 4rem;
+    height: 4rem;
+    border-radius: 50%;
+    align-content: left;
+    background: transparent;
+    font-size: 4rem;
+    left: 300px;
+    bottom: 65px;
+    position: relative;
+    
+}
+
+.hero-links {
+    gap: 100px;
+}
+
 .hero-section .left {
-    top: 200px;
+    flex-wrap: wrap;
+    height: 80%;
 }
 
 .color-gradient {
