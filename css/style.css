@@ -73,6 +73,7 @@ a {
 .hero-section .right {
     height: 60%;
     top: 200px;
+    
 }
 
 .hero-section .right > .opening-text {
@@ -90,8 +91,7 @@ a {
     box-shadow: 0 0 100px aqua;
     height: 40%;
     position: relative;
-    top: 50px;
-    left: 150px;
+    top: 0px;
     margin-top: 50px;
 }
 
@@ -99,12 +99,10 @@ a {
     color: aqua;
     width: 4rem;
     height: 4rem;
-    border-radius: 50%;
-    align-content: center;
     background: transparent;
     font-size: 4rem;
-    position: relative;
-    margin-left: 150px;
+    order: -1;
+    
     
 }
 
@@ -112,23 +110,31 @@ a {
     color: aqua;
     width: 4rem;
     height: 4rem;
-    border-radius: 50%;
-    align-content: left;
     background: transparent;
     font-size: 4rem;
-    left: 300px;
-    bottom: 65px;
-    position: relative;
+    order: 1;
     
 }
 
 .hero-links {
-    gap: 100px;
+    border-radius: 50%;
+    gap: 20px;
+    position: relative;
+    align-content: center;
+    justify-content: space-between;
+    margin-left: 15px;
+    margin-right: 15px;
+    display: inline-flex;
+    bottom: 60px;
+    
+    
 }
 
 .hero-section .left {
     flex-wrap: wrap;
     height: 80%;
+    margin-left: 350px;;
+
 }
 
 .color-gradient {
