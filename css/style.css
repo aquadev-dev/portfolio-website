@@ -269,6 +269,15 @@ a {
     position: relative;
 }
 
+#github-link-private {
+    color: grey;
+    width: 4rem;
+    height: 4rem;
+    background: transparent;
+    font-size: 4rem;
+    position: relative;
+}
+
 #language-image {
     width: 50px;
     height: 50px;
@@ -298,6 +307,30 @@ h4 {
     margin-bottom: 1rem;
 }
 
+.section-title {
+    text-align: center;
+    margin-bottom: 100px;
+}
+
+#main-section h2 {
+    font-size: 3.158rem;
+}
+
+#main-section .section-subtitle {
+    font-size: 2rem;
+    margin-bottom: 2rem;
+    margin-top: 1rem;
+    
+}
+
+.section-content {
+    max-width: 600px;
+    margin-bottom: 1rem;
+}
+
+.last-p {
+    margin-bottom: 100px;
+}
 footer {
   background-size: cover;
   background-repeat: repeat;
@@ -306,13 +339,12 @@ footer {
   width: 100%;
   display: flex;
   position: absolute;
-  bottom: 0;
+  bottom: 0px;
   left: 0;
   border-top: white 1px solid;
-  justify-content: space-evenly;
+  justify-content: center;
   align-items: center;
-  align-self: flex-end;
-  gap: px;
+  padding: 0 calc(min(30vw, calc(100vw - 1500px)));
   z-index: 100;
     
 }
