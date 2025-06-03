@@ -30,4 +30,13 @@
 </ul>
 
 <h2>Home Page</h2>
-<img>
+<img src="/images/HomePage.png">
+
+<h2>Projects Page</h2>
+<img src="/images/ProjectsPage.png">
+
+<h2>About Me Page</h2>
+<img src="/images/AboutMePage.png">
+
+<h2>My Journey (Timeline) Page</h2>
+<img src="/images/Timeline.png">
