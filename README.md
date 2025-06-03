@@ -20,10 +20,13 @@
 </div>
 
 <h2>Features</h2>
-- Has a Home, Projects, About Me, and My Journey page
-- Includes links to my GitHub profile and LinkedIn
-- The Projects page provides a brief description of particular projects and links to their respective repositories
-- About Me page includes sections based on things such as general info, my education, and what I do in my spare time.
-- My Journey page includes a timeline filled with milestones in my software development journey.
+
+<ul>
+  <li>Has a Home, Projects, About Me, and My Journey page</li>
+  <li>Includes links to my GitHub profile and LinkedIn</li>
+  <li>The Projects page provides a brief description of particular projects and links to their respective repositories</li>
+  <li>About Me page includes sections based on things such as general info, my education, and what I do in my spare time.</li>
+  <li>My Journey page includes a timeline filled with milestones in my software development journey.</li>
+</ul>
 
 <h2>Home Page</h2>
