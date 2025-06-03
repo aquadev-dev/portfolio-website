@@ -39,4 +39,4 @@
 <img src="/images/AboutMePage.png">
 
 <h2>My Journey (Timeline) Page</h2>
-<img src="/images/Timeline.png">
+<img src="/images/TimelinePage.png">
