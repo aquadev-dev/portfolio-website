@@ -5,13 +5,25 @@
 
 <h2>About</h2>
 <p align="left">
-  After purchasing the website hosting and domain name in January 2024, I decided to create a website for my portfolio to help me get a placement. During July 2024, I engaged in my three-stage plan to develop this website. I wanted to finish three projects before I started writing the text, eventually leading me to create the first version of the website using HTML, and CSS.
+  After purchasing the website hosting and domain name in January 2024, I decided to create a website for my portfolio to help me get a placement. During July 2024, I engaged in my three-stage plan to develop this website. I wanted to finish three projects before I started writing the text, eventually led me to create the first version of the website using HTML and CSS.
 </p>
 
 <h2>Languages and Modules used</h2>
 <div align="start">
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" width=50 height=50>
-  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" width=50 height=50>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/html5/html5-original.svg" height=50 width=50>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/refs/heads/master/icons/css3/css3-original.svg" height=50 width=50>
 </div>
 
 <h2>Tools Used</h2>
+<div align="start">
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" height=50 width=50>
+</div>
+
+<h2>Features</h2>
+- Has a Home, Projects, About Me, and My Journey page
+- Includes links to my GitHub profile and LinkedIn
+- The Projects page provides a brief description of particular projects and links to their respective repositories
+- About Me page includes sections based on things such as general info, my education, and what I do in my spare time.
+- My Journey page includes a timeline filled with milestones in my software development journey.
+
+<h2>Home Page</h2>
