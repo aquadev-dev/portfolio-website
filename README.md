@@ -1,7 +1,7 @@
 <h1 align="left">Aquadev.org Portfolio Website</h1>
 
 <p align="left">A portfolio website that acts as a one-stop shop for everything from my projects to methods of contacting me, developed using HTML and CSS.</p>
-<p align="left">This version is now the old version, however, a new version is</p>
+<p align="left">This version is now the old version, however, a new version is in the works. (End of Jan 2027 👀 hopefully)</p>
 
 <h2>About</h2>
 <p align="left">
